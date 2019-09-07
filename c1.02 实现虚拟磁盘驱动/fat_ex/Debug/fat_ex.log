@@ -1,0 +1,6 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+  fat_ex.vcxproj -> D:\FAT32\c1.02 实现虚拟磁盘驱动\fat_ex\Debug\fat_ex.exe
