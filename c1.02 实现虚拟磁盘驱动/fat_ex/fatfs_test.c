@@ -1,11 +1,3 @@
-/**
- * @file     fatfs_test.c
- * @brief    测试：虚拟磁盘驱动接口
- * @author   Fanyu Meng
- * @email    mengfanyu0217@163.com
- * @date     2019/9/6
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include "xdisk.h"
@@ -19,7 +11,7 @@ static u32_t write_buffer[160 * 1024];
 static u32_t read_buffer[160 * 1024];
 
 /**
- * @brief    磁盘IO测试（通过测试后需关闭）
+ * @brief    磁盘IO测试（测试完成后需关闭）
  * @return
 */
 int disk_io_test(void) {
