@@ -1,0 +1,7 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+D:\FAT32\c1.10 结构体打包\fat_ex\fatfs_test.c(67,13): warning C4101:  “err”: 未引用的局部变量
+  fat_ex.vcxproj -> D:\FAT32\c1.10 结构体打包\fat_ex\Debug\fat_ex.exe
