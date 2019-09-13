@@ -1,0 +1,6 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+  fat_ex.vcxproj -> D:\FAT32\c1.12 解析扩展分区数量\fat_ex\Debug\fat_ex.exe
