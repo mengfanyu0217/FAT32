@@ -1,0 +1,7 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+D:\FAT32\c1.13 解析分区信息\fat_ex\fatfs_test.c(77,20): warning C4018:  “<”: 有符号/无符号不匹配
+  fat_ex.vcxproj -> D:\FAT32\c1.13 解析分区信息\fat_ex\Debug\fat_ex.exe
