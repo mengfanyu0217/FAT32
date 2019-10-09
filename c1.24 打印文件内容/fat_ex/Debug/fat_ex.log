@@ -1,0 +1,6 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+  fat_ex.vcxproj -> D:\FAT32\c1.24 打印文件内容\fat_ex\Debug\fat_ex.exe
