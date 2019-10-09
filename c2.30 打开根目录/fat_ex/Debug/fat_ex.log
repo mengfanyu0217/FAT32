@@ -1,0 +1,6 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+  fat_ex.vcxproj -> D:\FAT32\c2.30 打开根目录\fat_ex\Debug\fat_ex.exe
