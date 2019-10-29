@@ -1,0 +1,7 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+D:\code\FAT32\c2.31 打开子文件\fat_ex\xfat.c(80,15): warning C4013:  “memcmp”未定义；假设外部返回 int
+  fat_ex.vcxproj -> D:\code\FAT32\c2.31 打开子文件\fat_ex\Debug\fat_ex.exe
