@@ -1,0 +1,6 @@
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+  正在生成代码...
+  fat_ex.vcxproj -> D:\code\FAT32\c2.32 8+3格式打开子文件\fat_ex\Debug\fat_ex.exe
