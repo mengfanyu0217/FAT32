@@ -241,7 +241,7 @@ int fs_open_test(void) {
 	xfile_close(&file);
 
 	err = xfile_open(&xfat, &file, exist_path);
-	if (err) {
+	if (err < 0) {
 		printf("open file failed %s!\n", exist_path);
 		return -1;
 	}
